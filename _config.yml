@@ -1,0 +1,20 @@
+title: Reese Levine
+base_url: "./"
+author:
+    name: Reese Levine
+    email: reeselevine@yahoo.com
+    github: reeselevine
+    twitter: reeselevine
+exclude:
+    [Gemfile, Gemfile.lock]
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: post
