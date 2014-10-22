@@ -1,0 +1,23 @@
+<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Reese Levine">
+
+    <title>
+      {% if page.title == "Reese Levine" %}
+          {{ page.title }}
+      {% else if %}
+          {{ page.title }} - Reese Levine
+      {% endif %}
+    </title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{page.base_url}}/assets/css/bootstrap.min.css" rel="stylesheet">
+
+    <link href="{{page.base_url}}/assets/css/style.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Lato:900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{page.base_url}}/assets/js/bootstrap.min.js"></script>
+    <script src="{{page.base_url}}/assets/js/jquery-1.11.1.min.js"></script>
