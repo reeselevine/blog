@@ -1,0 +1,15 @@
+body {
+    font-family: Monaco;
+    font-size: 13px;
+    padding-top: 30px;
+}
+
+.profile-pic {
+    box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.5);
+ }
+
+.container {
+    max-width: 768px;
+    padding: 0 30px;
+    margin: 0 auto;
+}
