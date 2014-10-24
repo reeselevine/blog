@@ -8,6 +8,24 @@ body {
     box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.5);
  }
 
+.name {
+    margin-top: 30px;
+    font-size: 40px;
+}
+
+.name a {
+    text-decoration: none;
+    color: black;
+}
+
+.name-blurb {
+    font-size: 15px;
+}
+
+.prof-icons {
+    margin-top: 15px;
+}
+
 .container {
     max-width: 768px;
     padding: 0 30px;
