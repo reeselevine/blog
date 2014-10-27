@@ -11,8 +11,6 @@ body {
 }
 
 .profile-pic {
-    width: 200px;
-    height: 200px;
     box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.5);
     display: block;
     margin-left: auto;
@@ -21,12 +19,13 @@ body {
 
 .name {
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 50px;
+    letter-spacing: 3px;
 }
 
 .name a {
-    text-decoration: none;
     color: black;
+    text-decoration: none;
 }
 
 .name-blurb {
@@ -40,18 +39,22 @@ body {
 
 .fa-facebook-square {
     color: #FDB515;
+    margin-right: 5px;
 }
 
 .fa-twitter-square {
     color: #003A70;
+    margin-right: 5px;
 }
 
 .fa-linkedin-square {
     color: #FDB515;
+    margin-right: 5px;
 }
 
 .fa-github-square {
-    color: #003A70
+    color: #003A70;
+    margin-right: 5px;
 }
 
 .fa-envelope-square {
