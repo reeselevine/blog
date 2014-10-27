@@ -1,6 +1,6 @@
 ---
 title: Resume
-url: "../"
+baseurl: "../"
 active: resume
 ---
 
