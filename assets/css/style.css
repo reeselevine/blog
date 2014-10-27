@@ -4,12 +4,23 @@ body {
     padding-top: 30px;
 }
 
+.container {
+    max-width: 768px;
+    padding: 0 10px;
+    margin: 0 auto;
+}
+
 .profile-pic {
+    width: 200px;
+    height: 200px;
     box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.5);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
  }
 
 .name {
-    margin-top: 30px;
+    margin-top: 20px;
     font-size: 40px;
 }
 
@@ -19,15 +30,80 @@ body {
 }
 
 .name-blurb {
+    margin-top: 10px;
     font-size: 15px;
 }
 
 .prof-icons {
-    margin-top: 15px;
+    margin-top: 25px;
 }
 
-.container {
-    max-width: 768px;
-    padding: 0 30px;
-    margin: 0 auto;
+.fa-facebook-square {
+    color: #FDB515;
 }
+
+.fa-twitter-square {
+    color: #003A70;
+}
+
+.fa-linkedin-square {
+    color: #FDB515;
+}
+
+.fa-github-square {
+    color: #003A70
+}
+
+.fa-envelope-square {
+    color: #FDB515;
+}
+
+.alert-info {
+    color: #003A70;
+}
+
+/*--- main nav ---*/
+
+#mainNav {
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+    display: block;
+}
+
+
+#mainNav nav ul {
+    width: auto;
+    margin: auto;
+    display: inline-block;
+    font-family: Monaco, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    letter-spacing: 3px;
+
+}
+
+#mainNav nav ul > li {
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#mainNav nav li > a {
+    color: black;
+}
+
+#mainNav nav li > a:hover {
+    color: white;
+    background-color: #FDB515;
+}
+
+#mainNav .active {
+    color: white;
+    background-color: #003A70;
+}
+
+#sep {
+    margin-top: 10px;
+}
+
+/*--- end main nav ---*/

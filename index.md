@@ -1,5 +1,7 @@
 ---
 title: Reese Levine
+baseurl: "./"
+active: about
 ---
 
 ## Who I Am ##
