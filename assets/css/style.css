@@ -47,22 +47,22 @@ body {
 }
 
 .fa-instagram {
-    color: #003A70;
+    color:  #FDB515;
     margin-right: 5px;
 }
 
 .fa-linkedin-square {
-    color: #FDB515;
-    margin-right: 5px;
-}
-
-.fa-github-square {
     color: #003A70;
     margin-right: 5px;
 }
 
-.fa-envelope-square {
+.fa-github-square {
     color: #FDB515;
+    margin-right: 5px;
+}
+
+.fa-envelope-square {
+    color: #003A70;
 }
 
 .alert-info {
@@ -74,35 +74,34 @@ a#copy-email {
 }
 
 a#copy-email span {
-  position: absolute;
-  width:140px;
-  color: #FFFFFF;
-  background: #000000;
-  height: 30px;
-  line-height: 30px;
-  text-align: center;
-  visibility: hidden;
-  border-radius: 6px;
-  font-size: 15px;
+    position: absolute;
+    width:140px;
+    color: #FFFFFF;
+    background: #000000;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    visibility: hidden;
+    border-radius: 6px;
+    font-size: 15px;
 }
 a#copy-email.zeroclipboard-is-hover span:after {
-  content: '';
-  position: absolute;
-  bottom: 100%;
-  left: 50%;
-  margin-left: -8px;
-  width: 0; height: 0;
-  border-bottom: 8px solid #000000;
-  border-right: 8px solid transparent;
-  border-left: 8px solid transparent;
+    content: '';
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -8px;
+    width: 0; height: 0;
+    border-bottom: 8px solid #000000;
+    border-right: 8px solid transparent;
+    border-left: 8px solid transparent;
 }
 a#copy-email.zeroclipboard-is-hover span {
-  visibility: visible;
-  opacity: 0.8;
-  top: 30px;
-  left: 50%;
-  margin-left: -76px;
-  z-index: 999;
+    visibility: visible;
+    opacity: 0.8;
+    bottom: -35px;
+    left: 54%;
+    z-index: 999;
 }
 
 /*--- main nav ---*/
