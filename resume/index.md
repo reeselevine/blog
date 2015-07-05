@@ -1,7 +1,7 @@
 ---
 title: Resume
-baseurl: "../"
 active: resume
+layout: default
 ---
 
 # Resume #

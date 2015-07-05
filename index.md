@@ -1,7 +1,7 @@
 ---
 title: Reese Levine
-baseurl: "./"
 active: about
+layout: default
 ---
 
 ## Who I Am ##

@@ -1,4 +1,5 @@
 title: Reese Levine
+url: http://0.0.0.0:4000/
 author:
     name: Reese Levine
     email: reeselevine@yahoo.com
@@ -9,11 +10,10 @@ exclude:
 defaults:
   -
     scope:
-      path: ""
-    values:
-      layout: default
-  -
-    scope:
       path: "_posts"
     values:
       layout: post
+  - scope:
+      path: "blog"
+    values:
+      layout: blog

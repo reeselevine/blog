@@ -2,11 +2,15 @@
   <nav class="nav">
     <ul class="nav nav-pills">
       <li>
-        <a class="{% if page.active == 'about' %}active{% endif %}" href="{{ page.baseurl }}">About</a>
+        <a class="{% if page.active == 'about' %}active{% endif %}" href="{{ site.url }}">About</a>
       </li>
       <li id="sep"> - </li>
       <li>
-        <a class="{% if page.active == 'resume' %}active{% endif %}" href="{{ page.baseurl }}resume">Resume</a>
+        <a class="{% if page.active == 'resume' %}active{% endif %}" href="{{ site.url }}resume">Resume</a>
+      </li>
+      <li id="sep"> - </li>
+      <li>
+	<a class="{% if page.active == 'blog' %}active{% endif %}" href="{{ site.url }}blog">Blog</a>
       </li>
     </ul>
   </nav>

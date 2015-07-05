@@ -8,19 +8,19 @@
       {% if page.title == "Reese Levine" %}
           {{ page.title }}
       {% else if %}
-          {{ page.title }} - Reese Levine
+          Reese Levine - {{ page.title }}
       {% endif %}
     </title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="{{page.base_url}}/assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{site.base_url}}/assets/css/bootstrap.min.css" rel="stylesheet">
 
-    <link href="{{page.base_url}}/assets/css/style.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Lato:900&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="{{site.base_url}}/assets/css/style.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Josefin+Slab' rel='stylesheet' type='text/css'>
 
     <!-- Font Awesome -->
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="{{page.base_url}}/assets/js/bootstrap.min.js"></script>
-    <script src="{{page.base_url}}/assets/js/jquery-1.11.1.min.js"></script>
+    <script src="{{site.url}}/assets/js/jquery-1.11.1.min.js"></script>
+    <script src="{{site.url}}/assets/js/bootstrap.min.js"></script>
