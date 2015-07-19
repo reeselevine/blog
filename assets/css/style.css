@@ -1,3 +1,4 @@
+/*--- universal ---*/
 body {
     font-family: 'Josefin Slab', sans-serif;
     font-size: 20px;
@@ -9,6 +10,10 @@ body {
     padding: 0 10px;
     margin: 0 auto;
 }
+
+/*--- end universal ---*/
+
+/*--- header-pic ---*/
 
 .profile-pic {
     box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.5);
@@ -104,6 +109,8 @@ a#copy-email.zeroclipboard-is-hover span {
     z-index: 999;
 }
 
+/*--- end header-pic ---*/
+
 /*--- main nav ---*/
 
 #mainNav {
@@ -158,3 +165,37 @@ a#copy-email.zeroclipboard-is-hover span {
 .home-button:hover {
     color: #FDB515;
 }
+
+/*--- end blog index home button ---*/
+
+/*--- blog post universal layout ---*/
+
+.post-body {
+    padding-top: 0px;
+}
+
+.post-header {
+    position: top;
+    width: 100%;
+    padd;
+}
+
+.post-back-button {
+    position: fixed;
+    left: 0;
+    color: #FDB515;
+    padding: 10px;
+}
+
+.post-back-button a {
+    color: #003A70;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.post-back-button a:hover {
+    color: white;
+    background-color: #FDB515;
+}
+
+/*--- end blog post univeral layout ---*/
