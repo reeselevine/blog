@@ -1,7 +1,6 @@
 ---
 title: new adventures
 post_dir: new-adventures
-layout: post
 ---
 
 At some point it was inevitable that I started a blog, considering how much I love to write. However, after realizing that I didn't really want to be a journalist when I first got to college, I haven't really had the opportunity to stretch my creative writing muscles, school essays notwithstanding. So, why now?

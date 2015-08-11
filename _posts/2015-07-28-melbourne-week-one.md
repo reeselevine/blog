@@ -1,7 +1,6 @@
 ---
 title: melbourne week one
 post_dir: melbourne-week-one
-layout: post
 ---
 
 I have now been in Melbourne for one week. If this were a normal vacation, that means that right about now I'd be packing up and moving on to my next destination. And in fact, the last week has felt a lot like a vacation. I've done a lot of picture-taking, a lot of eating, and a lot of walking. However, in many ways it doesn't feel like a vacation. I've gone grocery shopping, my suitcases are completely unpacked, and my room is starting to take on that familiar feeling of being mine. Obviously, there's still a huge amount I still need to do and figure out, and some things remind me every day that I'm not planning on staying here permanently, but I feel that in time I'll feel as comfortable in Melbourne as I ever did in the Bay Area.

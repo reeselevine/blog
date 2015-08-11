@@ -157,7 +157,8 @@ a#copy-email.zeroclipboard-is-hover span {
 
 /*--- end main nav ---*/
 
-/*--- blog index ---*/
+/*--- post list ---*/
+
 .home-button {
     color: #003A70;
 }
@@ -176,7 +177,6 @@ a#copy-email.zeroclipboard-is-hover span {
 
 .post-list-date {
     font-size: small;
-    margin-right: 100px;
 }
 
 .post-list a {
@@ -189,9 +189,9 @@ a#copy-email.zeroclipboard-is-hover span {
     color: white;
     background-color: #FDB515;
 }
-/*--- end blog index ---*/
+/*--- end post list ---*/
 
-/*--- blog post universal layout ---*/
+/*--- post universal layout ---*/
 
 .post-body {
     padding-top: 0px;
@@ -221,4 +221,4 @@ a#copy-email.zeroclipboard-is-hover span {
     background-color: #FDB515;
 }
 
-/*--- end blog post univeral layout ---*/
+/*--- end post univeral layout ---*/
