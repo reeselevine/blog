@@ -1,5 +1,6 @@
 title: Reese Levine
 url: http://dev.reeselevine.me:4000/
+image_path: assets/images/
 author:
     name: Reese Levine
     email: reeselevine@yahoo.com
@@ -10,7 +11,8 @@ exclude:
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
+      type: "posts"
     values:
       layout: post
   - scope:
