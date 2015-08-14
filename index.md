@@ -18,10 +18,6 @@ layout: default
 
 # what i'm
 
-- **doing now**: studying abroad [@melbourne](http://unimelb.edu.au) for 6 months
+- **doing**: studying abroad [@melbourne](http://unimelb.edu.au) for 6 months
 
-- **watching**: [@gilmoregirls](http://www.imdb.com/title/tt0238784/) (trust me it's good!)
-
-- **reading**: @75shortmasterpieces, stories from world literature. It's good to take a break from novels now and then, and I've always felt that short stories can carry a lot more meaning than many longer works.
-
-- **listening to**: [@ontop](https://www.youtube.com/watch?v=l-QVmsqetB8) : [@gifted](https://www.youtube.com/watch?v=WZB7yswo6a0) :  [@outside](https://www.youtube.com/watch?v=J9NQFACZYEU)
+- **reading**: [@foundationseries](https://en.wikipedia.org/wiki/Foundation_series)
