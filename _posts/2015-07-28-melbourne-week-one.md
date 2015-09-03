@@ -11,7 +11,7 @@ Due to my delay in getting to Melbourne, I missed orientation for international 
 
 <img src="{{ site.url }}/assets/images/melbourne-week-one/res-college.jpg" style="width: 100%;"/>
 
-**This was one of the "dorms" that you can apply to live in. Come on Berkeley, up your game!**
+*<sub>This was one of the "dorms" that you can apply to live in. Come on Berkeley, up your game!</sub>*
 
 *Having walked the entirety of the semi-circle, I continue east for a couple blocks until I reach Lygon St. While only a 10-15 minute walk from the CBD, Lygon St is to Melbourne as Walnut Creek is to San Francisco (read, wealthy, overpriced, but clean). I stay only long enough to gawk at the prices on some of the menus before hopping on a tram south, to downtown Melbourne.*
 
@@ -28,7 +28,7 @@ A quick interlude. I'll admit that I didn't do a lot of research about Melbourne
 Of course, what you have just read is only the condensed highlights version, and there are plenty of things I did and saw that are not included, and plenty of time was spent not really doing anything. Today is my second day of class, or at least it would be, if I had any classes today, and I can already feel myself slipping back into the comfortable, easy routine of morning bike rides, afternoon cappucinos, and evening "work".
 
 <a href="https://goo.gl/photos/G7ZMh1zpX5Zn5bRc7"><img src="{{ site.url }}/assets/images/melbourne-week-one/flinders-stn.jpg" style="width: 100%;"/></a>
-**Click the photo above to see an album of my favorite shots from my first week in Melbourne!**
+*<sub>Click the photo above to see an album of my favorite shots from my first week in Melbourne!</sub>*
 
 Never fear, though, I am not going to spend my entire time here relaxing. I have plans, if not travel dates or partners, to visit Tasmania, Sydney, New Zealand, southeast Asia, and the Great Barrier Reef, as well as many other weekend and day trips around Melbourne. I plan to make the most of this amazing opportunity I have before me, and I only hope that when I look back at these posts in a few years, I won't regret that I didn't go somewhere I should have gone or do something I should have done.
  

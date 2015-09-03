@@ -1,7 +1,7 @@
 /*--- universal ---*/
 body {
-    font-family: 'Josefin Slab', sans-serif;
-    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 18px;
     padding-top: 30px;
 }
 
@@ -197,28 +197,47 @@ a#copy-email.zeroclipboard-is-hover span {
     padding-top: 0px;
 }
 
-.post-header {
+.post-header{
+    position: relative;
+}
+
+.post-header-pic {
     position: top;
     width: 100%;
-    padd;
+}
+
+.post-title {
+    top: 30%;
+    left: 20%;
+    position: absolute;
+}
+
+.post-title h3 {
+    font-size: 60px;
+    color: white;
+}
+
+@media all and (max-width: 1000px) {
+    .post-title h3 {font-size:40px;}
+}
+
+@media all and (max-width: 600px) {
+    .post-title h3 {font-size:30px;}
+}
+
+@media all and (max-width: 400px) {
+    .post-title h3 {font-size:25px;}
 }
 
 .post-back-button {
     position: fixed;
     left: 0;
-    color: #FDB515;
+    color:  #003A70;
     padding: 10px;
 }
 
-.post-back-button a {
-    color: #003A70;
-    padding: 5px;
-    text-decoration: none;
-}
-
-.post-back-button a:hover {
-    color: white;
-    background-color: #FDB515;
+.post-back-button:hover {
+    color: #FDB515;
 }
 
 /*--- end post univeral layout ---*/
