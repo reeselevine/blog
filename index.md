@@ -18,6 +18,6 @@ layout: default
 
 # what i'm
 
-- **doing**: studying abroad [@melbourne](http://unimelb.edu.au) for 6 months
+- **doing**: studying at UC Berkeley
 
-- **reading**: [@foundationseries](https://en.wikipedia.org/wiki/Foundation_series)
+- **reading**: [@thefountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)
