@@ -23,3 +23,7 @@ defaults:
       path: "cs61c"
     values:
       layout: cs61c
+  - scope:
+      path: "sarah"
+    values:
+      layout: sarah
