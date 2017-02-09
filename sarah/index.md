@@ -44,3 +44,6 @@ The rising crescendo of this song always takes me to a place far beyond wherever
 
 Why did I choose this song as the last one? Well, for one, it always gives me chills when I listen to it. It describes our love so perfectly, and the yearning, earnest voice of Broods makes me feel like laughing and crying simultaneously. There is a slightly nostalgic feel, like looking back on the trips we took together last summer, but also a forward looking hope, of a future filled with love together. Separated as we are by hundreds of miles, it is important that the lines connecting our hearts remain as strong as ever, and I know that they will.
 
+### 1010
+10 songs, 10 reasons. I’ve chosen one song each from some of my favorite artists. You know how much music means to me, so you know that these were not chosen lightly. Each one reminds me of a different aspect of our relationship, and together they form a statement of the strength of our connection. I hope that whenever you want or need a reminder of us, you can visit this page and be reminded that you are mine, and I am yours.
+
