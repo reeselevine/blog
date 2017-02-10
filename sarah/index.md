@@ -7,7 +7,7 @@ active: sarah
 
 I remember an early summer evening in Melbourne, I rode my bike south along the ocean, and stopped on the top of a small hill where the city was illuminated by the rays of the setting sun. There I listened to this song, and thought about having someone who I could light up the world with. Three months later, I found you. I chose this song as the opening song because it has the promise of hope and joy in its melody and rhythm. Before you my heart was just a rock, but with you it’s a firestone.
 
-### 0001: Lost Frequencies – Are You With Me
+### 0001: Lost Frequencies – Are You With Me (Kungs Remix)
 
 Riding the Bart train to work in the summer of 2015, I listened to this song to remind me that one day I would escape far away from the bustle of the city and the stress of life. Now, I ask you, Sarah, are you with me? Will you be my one and only, will you go with me wherever I go, will you live life to the fullest with me? I think I know the answer.
 
