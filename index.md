@@ -20,4 +20,4 @@ layout: default
 
 - **doing**: studying at UC Berkeley
 
-- **reading**: [@thefountainhead](https://en.wikipedia.org/wiki/The_Fountainhead)
+- **reading**: Jack Kerouac
