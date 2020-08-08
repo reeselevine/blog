@@ -1,6 +1,7 @@
 ---
 title: been a while
-post_dir: been-a-while
+layout: post
+background: '/img/posts/been-a-while/featured.jpg'
 ---
 
 Wow, it's been a while. The last time I wrote a blog was October 2015, after I got back from spring break in Bali. Since then, so much has happened; there's no way I could possibly even summarize it to my liking. Oh well, I'll try anyways. Here it is in a list:
@@ -15,27 +16,27 @@ There's one other thing I remembered after I started writing this, and that's a 
 
 Well, that's all about all I wanted to say, so I'll end with a few more of my favorite photos from the past nine months. Until next time!
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/bondi.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/bondi.jpg" style="width: 100%;"/>
 *<sub>Bondi Beach on Christmas day.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/reef.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/reef.jpg" style="width: 100%;"/>
 *<sub>Mom and sister after a day spent snorkeling on the Great Barrier Reef.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/sb.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/sb.jpg" style="width: 100%;"/>
 *<sub>Morning ride in Santa Barbara with Henry and Eric after a weekend spent racing in Los Angeles in February.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/homecrit.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/homecrit.jpg" style="width: 100%;"/>
 *<sub>Winning Cal's home criterium after lapping the field solo and leading Alex out for 2nd in late March (I'm the one with my head down and arms in the air).</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/ride.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/ride.jpg" style="width: 100%;"/>
 *<sub>Riding with Sarah and Cal Cycling in early May.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/moab.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/moab.jpg" style="width: 100%;"/>
 *<sub>Hiking in Moab with Alex on the way back from North Carolina.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/goof.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/goof.jpg" style="width: 100%;"/>
 *<sub>Goofing off at the top of Monitor Pass while camping in the Sierras with Sarah and her family.</sub>*
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/love.jpg" style="width: 100%;"/>
+<img src="/img/posts/been-a-while/love.jpg" style="width: 100%;"/>
 *<sub>Huddled around the fire at Sarah's cabin in Laytonville.</sub>*
 

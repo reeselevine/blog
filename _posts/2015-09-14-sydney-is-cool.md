@@ -1,6 +1,7 @@
 ---
 title: sydney is cool
-post_dir: sydney-is-cool
+layout: post
+background: '/img/posts/sydney-is-cool/featured.jpg'
 ---
 
 I only spent four full days in Sydney, but in those four days I think I squeezed in as much as I could without doing too much. While I wish I could tell you everything that I did and thought, there is really no way to experience something without doing it yourself. So, I guess I'll limit myself to talking about the parts of the trip that stuck with me the most.
@@ -13,7 +14,7 @@ Saturday, I was determined to see as much of downtown Sydney as I could, and I t
 
 On a whim, I caught a ferry to Manly, which turned out to be a very cool experience, but because I don't want to bore you with all the details, I'll skip over Manly itself. Saturday evening, I met up with Sonia, who interned at Munchery with me this past summer and who happened to be studying abroad in Sydney, and we had dinner and hung out for the evening. Looking back while writing this now, I'm realizing that I really managed to do a lot on Saturday, and that explains how sore my feet were that night. I didn't return to my hostel until after midnight, and promptly fell asleep.
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/harbor.jpg" style="width: 100%;"/>
+<img src="/img/posts/sydney-is-cool/harbor.jpg" style="width: 100%;"/>
 *<sub>The first view I had of Sydney Harbor in all its glory.</sub>*
 
 ### The Blue Mountains
@@ -24,7 +25,7 @@ One train ride, two hours, and $5 brought me to Katoomba, the traditional jumpin
 
 After my taste of steps carved into the cliffs the day before, I was feeling hungry, so picked a route that would have me descend straight down into the valley via the Giant Stairway, cross along the valley floor, and then climb back out along the Leura Cascades. Words cannot do this hike justice, so all I can say is that if you're ever in the Blue Mountains and have the motivation to do a bit of a harder hike, this one will not let you down in any way. To celebrate the Blue Mountains, I ate brunch at a cozy restaurant in Leura before catching a train back down to Sydney.
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/waterfall.jpg" style="width: 100%;"/>
+<img src="/img/posts/sydney-is-cool/waterfall.jpg" style="width: 100%;"/>
 *<sub>A ledge in the Leura Cascades. Didn't get too close to the edge, it's a long way down.</sub>*
 
 ### Back to Sydney
@@ -33,7 +34,7 @@ My last night in Sydney I splurged, staying at the Sydney Harbor YHA, the only h
 
 Ok, maybe not so relaxing, as my plan was to take a bus over to Bondi Beach and then do the 3.6 mile walk down to Coogee Beach. It was a perfect day out, and for lunch I ate fish and chips while sitting on rocks with the surf pounding beneath me. Once I reached Coogee Beach, I did finally relax for an hour, reading a book and enjoying the warmth that Melbourne has been so stingy with for the past couple months. Unfortunately, it all was coming to an end, so eventually I took the bus back to the central station and from there the train to the airport. In one final stroke of good luck, the airline needed volunteers to sit at exit row seats, which they normally charge for, so of course being 6'5", I took the opportunity immediately.
 
-<img src="{{ site.url }}{{ site.image_path }}{{ page.post_dir }}/beach.jpg" style="width: 100%;"/>
+<img src="/img/posts/sydney-is-cool/beach.jpg" style="width: 100%;"/>
 *<sub>Ocean fed pool near Bondi Beach. Guaranteed to be better than your indoor hotel pool.</sub>*
 
 ### Final Thoughts

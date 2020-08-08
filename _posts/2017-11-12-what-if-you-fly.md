@@ -1,6 +1,7 @@
 ---
 title: what if you fly
-post_dir: what-if-you-fly
+layout: post
+background: '/img/posts/what-if-you-fly/featured.jpg'
 ---
 
 *<center>There is freedom waiting for you,</center>*
