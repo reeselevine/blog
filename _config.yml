@@ -8,6 +8,8 @@ url: http://reeselevine.me/
 twitter_username: reeselevine
 github_username:  reeselevine
 
+google_analytics: UA-65317036-1
+
 # Build settings
 remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 paginate: 5
