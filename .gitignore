@@ -1,2 +1,3 @@
 _site
 *orig.jpg
+*.jekyll-cache
