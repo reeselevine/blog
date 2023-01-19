@@ -14,7 +14,7 @@ Saturday, I was determined to see as much of downtown Sydney as I could, and I t
 
 On a whim, I caught a ferry to Manly, which turned out to be a very cool experience, but because I don't want to bore you with all the details, I'll skip over Manly itself. Saturday evening, I met up with Sonia, who interned at Munchery with me this past summer and who happened to be studying abroad in Sydney, and we had dinner and hung out for the evening. Looking back while writing this now, I'm realizing that I really managed to do a lot on Saturday, and that explains how sore my feet were that night. I didn't return to my hostel until after midnight, and promptly fell asleep.
 
-<img src="/img/posts/sydney-is-cool/harbor.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/sydney-is-cool/harbor.jpg" style="width: 100%;"/>
 *<sub>The first view I had of Sydney Harbor in all its glory.</sub>*
 
 ### The Blue Mountains

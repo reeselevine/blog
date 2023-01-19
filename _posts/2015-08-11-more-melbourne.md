@@ -10,7 +10,7 @@ First, I have to start with the cafes, both because of their plentitude and beca
 
 Needless to say, I really enjoy the importance Melbournians place on their coffee, and my only regret is that I have to do other things besides sit in cafes and drink cappuccinos all day.
 
-<img src="/img/posts/more-melbourne/coffee.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/more-melbourne/coffee.jpg" style="width: 100%;"/>
 *<sub>This cafe went a step beyond, bringing us seltzer water to clear our palates before enjoying the espresso</sub>*
 
 Besides cafes, Melbourne is the place to be if you like to eat, and are not afraid to spend all your money on food and nothing else. Every city has restaurants, but this place takes it to a whole new level, so that finding food, from Malaysian to Japanese to British pub cuisine, is as easy as walking into the nearest building and ordering. However, I will say that the Mexican food is sorely lacking, which I think is the case everywhere except Mexico and the western United States.
@@ -23,12 +23,12 @@ I am now starting the third week of the semester (out of 12, which means that at
 
 Well, that about sums up this blog post. I've included another photo album which kind of shows what I've actually been doing in the last couple weeks, rather than just what I've beeen observing. Now, the next couple paragraphs will be about some things I've noticed here in Australia which may or may not be true but are definitely true in my opinion. Read at your own risk.
 
-<a href="https://goo.gl/photos/JPwQyzkuRx2JKZAfA"><img src="/img/posts/more-melbourne/fireworks.jpg" style="width: 100%;"/></a>
+<a href="https://goo.gl/photos/JPwQyzkuRx2JKZAfA"><img src="{{site.baseurl}}/img/posts/more-melbourne/fireworks.jpg" style="width: 100%;"/></a>
 *<sub>Click on the photo above to see the album. Unfortunately it doesn't seem like you can read the captions if you're viewing it on a mobile device, so you'll just have to imagine what witty comments I came up with.</sub>*
 
 1.) The Ute is an absolutely useless vehicle. What is a Ute, an American may ask? Well, a Ute is basically a pick up truck, but that was designed to kind of look like a sports car, except much uglier and not even close to as fast. Yes, it has a pickup bed in the back, but I've yet to see anything actually in one of the beds. Wait, says the Ute driver, you haven't seen anything in the bed because of my aerodynamic cover on it, so that I can attain max speeds and buzz other drivers. I say ok, but even so, there's no way you're not carrying anything in that closed bed that wouldn't fit into a sensible mid-size sedan or wagon. American pick up trucks are actually useful, at least to people who have the need to transfer four ATVs, ten bales of hay, a pack of barking dogs, a luxury yacht on a trailer, ten horses in another trailer, and maybe Grandma's old Airstream tacked on to the back for good measure.
 
-<img src="/img/posts/more-melbourne/utes.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/more-melbourne/utes.jpg" style="width: 100%;"/>
 *<sub>A bunch of Utes stuck in a traffic jam</sub>*
 
 2.) People who live in Melbourne secretly have unlimited money. This is the only way I can explain the average Melbournian's ability to drink two $4 coffees and eat a $7 pastry in the morning, spend another $20 on sushi for lunch, maybe have another coffee and pastry in the afternoon, and then go out to dinner for an entree that will cost $25 at the minimum, not to mention the expensive wine and dessert they're all probably getting as well. By my calculations, I'd have to spend approximately $500 a week to fit in, but instead all I get are disapproving looks when I only buy one cappuccino at lunch and explain that I made my own sandwiches and brought them with me.

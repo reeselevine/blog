@@ -10,7 +10,7 @@ Due to my delay in getting to Melbourne, I missed orientation for international 
 
 *Stepping outside, I immediately pull my hood up, for it is winter in Melbourne, and I regret my decision to bring only a light sweatshirt better suited for chilly summer mornings than winds straight from Antarctica. Nevertheless, I endure, and turning left, walk two blocks north to campus. Similar to Berkeley, the University of Melbourne is a potpourri of architectural styles, with buildings from the 1800s sitting squat and low next to sleek, angular highrises with pane-glass windows and ground floor cafes serving $10 artisan sandwiches and carefully crafted cappucinos. The university is shaped like a slice of a domed building, the rectangular main campus topped by a semi-circle around which the residential colleges are located. Walking this semi-circle, I marvel at the imposing stone towers of these glorified dormitories, which remind me more of English countryside manors than Unit 2, the aptly named hunk of concrete that served as my freshman dormitory back in Berkeley.*
 
-<img src="/img/posts/melbourne-week-one/res-college.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/melbourne-week-one/res-college.jpg" style="width: 100%;"/>
 
 *<sub>This was one of the "dorms" that you can apply to live in. Come on Berkeley, up your game!</sub>*
 
@@ -28,7 +28,7 @@ A quick interlude. I'll admit that I didn't do a lot of research about Melbourne
 
 Of course, what you have just read is only the condensed highlights version, and there are plenty of things I did and saw that are not included, and plenty of time was spent not really doing anything. Today is my second day of class, or at least it would be, if I had any classes today, and I can already feel myself slipping back into the comfortable, easy routine of morning bike rides, afternoon cappucinos, and evening "work".
 
-<a href="https://goo.gl/photos/G7ZMh1zpX5Zn5bRc7"><img src="/img/posts//melbourne-week-one/flinders-stn.jpg" style="width: 100%;"/></a>
+<a href="https://goo.gl/photos/G7ZMh1zpX5Zn5bRc7"><img src="{{site.baseurl}}/img/posts//melbourne-week-one/flinders-stn.jpg" style="width: 100%;"/></a>
 *<sub>Click the photo above to see an album of my favorite shots from my first week in Melbourne!</sub>*
 
 Never fear, though, I am not going to spend my entire time here relaxing. I have plans, if not travel dates or partners, to visit Tasmania, Sydney, New Zealand, southeast Asia, and the Great Barrier Reef, as well as many other weekend and day trips around Melbourne. I plan to make the most of this amazing opportunity I have before me, and I only hope that when I look back at these posts in a few years, I won't regret that I didn't go somewhere I should have gone or do something I should have done.

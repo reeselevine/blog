@@ -12,7 +12,7 @@ My flight arrived in Bali at 22:40 on Saturday evening, so naturally I decided i
 
 A bunch of us studying in Melbourne had managed to rent out an entire villa pretty close to the beach for the next three nights, so that was my next destination. One of the highlights of that time was being able to rent a two person scooter and use it to get around to beaches and places to eat. I paid about $5 a day for a tricked out moped and helmet that included stickers from Apple and GoPro among others, and was surprisingly fast and maneuverable. I don't even have a motorcycle license or an international driver's license, so driving around on it was totally illegal, but luckily Bali is not known for its road laws or effective police force. I was pretty sad to give her up after a couple days. Other than that, my time was spent going to the beach, some bars, a temple, and getting to know all the other people at the villa, most of whom are from Europe and all of whom are awesome to hang out with.
 
-<img src="/img/posts/finding-my-base-case/road.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/finding-my-base-case/road.jpg" style="width: 100%;"/>
 *<sub>There are no lanes, only limitless possibilities.</sub>*
 
 After the villa, all of us had planned to head to the Gili Islands, three small islands about a two hour boat ride away from Bali itself and just off the coast of Lombok. The largest island, Gili Trawangan, is a big backpacker destination with lots of bars and restaurants, while the other two islands, Gili Meno and Gili Air, are less populated and more laid back.
@@ -21,7 +21,7 @@ Originally, my plan was to get my open water scuba diving license on Gili Trawan
 
 I'll admit that for a few hours, I was really disappointed. I had been looking forward to scuba diving for a few weeks, and now I was left with the prospect of two full days by myself while my friends went diving. Luckily, since there were a lot of others from the villa also coming over to the islands, I was not going to be without people to do things with, and to be honest it's impossible to remain disappointed in such an amazing place. And looking back, I can't regret not getting to go scuba diving, because that means I would have missed out on everything else I did.
 
-<img src="/img/posts/finding-my-base-case/clear.png" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/finding-my-base-case/clear.png" style="width: 100%;"/>
 *<sub>Like something out of a travel brochure.</sub>*
 
 The next day was Thursday, October 1, and it's one of those few days that I know I'll never forget. It started off well when I found a cafe that actually made good coffee and pretty amazing banana pancakes. A few people were interested in hiring a boat for the afternoon and going over to Gili Air, and so I ended up joining them. Sitting here, it's kind of frustrating, because I want to explain how perfect that day was, but it's almost impossible to find the right words. I'll try, though, and for the rest, you'll just have to trust me.
@@ -30,7 +30,7 @@ There's the boat, stopping just off the reef and jumping and swimming in the war
 
 That day, I didn't have time to think about it because I was too busy living it, but now, writing this back in Melbourne, I realize that that was my base case. There I was, an American boy studying abroad in Australia, hanging out on a small Indonesian island with European friends, and all I can think of now is how crazy it is that I ended up in that moment. I'm sorry if this comes off as a bit cheesy, but it's the best I can do. For those of you who were there, thanks for making it such an amazing experience, and for those who weren't, I really wish you had been, because its one of those things that you can't read about; you just have to go out and do it.
 
-<img src="/img/posts/finding-my-base-case/sense.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/finding-my-base-case/sense.jpg" style="width: 100%;"/>
 *<sub>The beach where it all made sense.</sub>*
 
 

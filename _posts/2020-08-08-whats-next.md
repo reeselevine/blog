@@ -23,7 +23,7 @@ I feel as though I am suspended between Mallory and Hayden and the words they le
 
 I’m no stranger to risk and pain at this point. I’ve been cycling since I was eleven years old, and I know plenty of people who haven’t come back from a ride or race. I also know, or at least I can acknowledge, that I am privileged to have access to modern medicine and the means to be able to afford to do the things I want to do. I have the love of my family and friends, I have an amazing girlfriend, and as of a few months ago, I have a puppy who enjoys biting my hands and sleeping on the bed.
 
-<img src="/img/posts/whats-next/hunter.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/whats-next/hunter.jpg" style="width: 100%;"/>
 
 We moved to Santa Cruz last month. I’ll be starting a PhD program in computer science at UC Santa Cruz in the fall, and I’ve been busy exploring the endless trails and roads on my bike. The Sierras aren’t that far away and I have goals and aspirations that will keep me busy for the foreseeable future. All that to say, I’m living life. In Salt in My Soul, Mallory writes “I feel like I’m going to fade away and be forgotten.” While it’s clear that is not true, I want to add my voice to the chorus. As long as I’m here, Mallory, I promise to thrive. I also promise to take Hayden’s advice, to leave time to “stop, pause, breathe, and reflect.”
 

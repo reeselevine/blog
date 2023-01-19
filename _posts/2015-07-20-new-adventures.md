@@ -16,7 +16,7 @@ This post was supposed to be all about my summer, and create a grand backdrop fo
 
 In mid-May, I finished my second year at UC Berkeley, culminating with a fifth-place medal in the collegiate national cycling championships team time trial as part of the Cal Cycling team, and the declaration of my major, computer science. Yeah, I'm pretty cool; you'll get used to it.
 
-<img src="/img/posts/new-adventures/coll-nats.jpg" style="width: 100%;"/>
+<img src="{{site.baseurl}}/img/posts/new-adventures/coll-nats.jpg" style="width: 100%;"/>
 *<sub>Collegiate nationals took place in Asheville, North Carolina. The Blue Ridge mountains are old, but the views of them never will be.</sub>*
 
 After nationals, I willed myself through finals and immediately started interning at Munchery, a food deliver startup in the city. This was my first programming internship, making it a huge learning experience, but I loved every minute of the job and the workplace culture. In fact, I scared myself at times with my ability to get so deep into the code that I had to force myself to stop working when I got home. I also contributed a little bit to an open-source plugin for Jenkins that we needed for one of our intern projects at work, which made me realize that I definitely want open-source development to be a part of my programming future.
